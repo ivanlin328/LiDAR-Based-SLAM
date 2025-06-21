@@ -130,14 +130,14 @@ python pose_graph_optimization.py
 Results
 Here are some visualizations from the project:
 
-Differential-Drive Robot Trajectory (Odometry)
-![Odemetry](Part1_20.png)
+## Differential-Drive Robot Trajectory (Odometry)
+![Odometry](./Part1_20.png)
 
-Robot Trajectory + Aligned Lidar Scans (ICP Corrected)
-![scan_matching](scan_matching_20.png)
+## Robot Trajectory + Aligned Lidar Scans (ICP Corrected)
+![scan_matching](./scan_matching_20.png)
 
-Grid Map (Occupancy Grid)
-![Grid_map](Full_Grid_map_20.png)
+## Grid Map (Occupancy Grid)
+![Grid_map](./Full_Grid_map_20.png)
 
-Floor Texture Map
-![Texture_map]()
+## Floor Texture Map
+![Texture_map](./texture_map_20.png)
