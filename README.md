@@ -137,6 +137,7 @@ Robot Trajectory + Aligned Lidar Scans (ICP Corrected)
 ![scan_matching](scan_matching_20.png)
 
 Grid Map (Occupancy Grid)
-![]()
+![Grid_map](Full_Grid_map_20.png)
+
 Floor Texture Map
-![]()
+![Texture_map]()
