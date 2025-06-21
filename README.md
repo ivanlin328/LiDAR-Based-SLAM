@@ -19,7 +19,7 @@ The project is structured into several Python scripts, each handling a specific 
 ### 1\. Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone <r[epository_url](https://github.com/ivanlin328/LiDAR-Based-SLAM.git)>
 cd <LiDAR-Based-SLAM>
 ```
 
