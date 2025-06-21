@@ -133,7 +133,7 @@ Here are some visualizations from the project:
 Differential-Drive Robot Trajectory (Odometry)
 ![Odemetry](Part1_20.png)
 Robot Trajectory + Aligned Lidar Scans (ICP Corrected)
-![]()
+![scan_matching](scan_matching_20.png)
 Grid Map (Occupancy Grid)
 ![]()
 Floor Texture Map
