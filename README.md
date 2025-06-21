@@ -127,3 +127,10 @@ To optimize the robot's trajectory using GTSAM and loop closures:
 ```bash
 python pose_graph_optimization.py
 ```
+Results
+Here are some visualizations from the project:
+
+Differential-Drive Robot Trajectory (Odometry)
+Robot Trajectory + Aligned Lidar Scans (ICP Corrected)
+Grid Map (Occupancy Grid)
+Floor Texture Map
