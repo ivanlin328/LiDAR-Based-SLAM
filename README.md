@@ -131,6 +131,10 @@ Results
 Here are some visualizations from the project:
 
 Differential-Drive Robot Trajectory (Odometry)
+![]()
 Robot Trajectory + Aligned Lidar Scans (ICP Corrected)
+![]()
 Grid Map (Occupancy Grid)
+![]()
 Floor Texture Map
+![]()
